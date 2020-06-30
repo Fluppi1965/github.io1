@@ -2,10 +2,9 @@
 Jean-Luc Picard, gespielt von Patrick Stewart, ist der kommandierende Offizier der Enterprise-D und der Enterprise-E
 
 ##  Eigenschaften
-
 * Als Captain ist er weithin bekannt als diplomatisch versiert
 * ist taktisch unkonventionell
-* äußerst loyal gegenüber der Crew und dem Sternenflotten-Kommando
+* aeußerst loyal gegenüber der Crew und dem Sternenflotten-Kommando
 * Er trinkt gerne heißen Earl-Grey-Tee
 * Hobby-Archäologe
 * Florettfechter
